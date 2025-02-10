@@ -9,7 +9,9 @@ Se implementan seis enfoques basados en Machine Learning para la predicción de 
 4. Random Forest Classification (RFC): Se usa RFC para predecir el estado de maduración del mango mediante un Label Encoder.
 5. Stochastic Gradient Boosting Classification (SGBC): Se emplea SGBC para predecir el estado de maduración del mango aplicando un Label Encoder.
 6. Support Vector Machine (SVM): Se predicen los parámetros utilizando SVM, ajustando los hiperparámetros C, gamma, grado y kernel para optimizar el procesamiento de datos.
+## Notas sobre los Códigos
+Los códigos incluidos en este repositorio son de mi autoría. En el artículo escrito sobre este proyecto se presentan otros resultados obtenidos por compañeros, cuyos códigos no están incluidos en este repositorio.
 ## Autor
-Vincenzo Luna Otero
-Bachiller en Ingeniería Mecánico-Eléctrica
+Vincenzo Luna Otero.                                                                                                                                                                  
+Bachiller en Ingeniería Mecánico-Eléctrica.
 
